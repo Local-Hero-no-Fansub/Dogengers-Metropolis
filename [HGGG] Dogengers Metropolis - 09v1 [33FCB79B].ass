@@ -54,23 +54,6 @@ Dialogue: 0,0:00:52.68,0:00:55.53,Default,,0,0,0,,I should return with what I've
 Dialogue: 0,0:00:59.97,0:01:01.35,Default,,0,0,0,,Or should I...?
 Dialogue: 0,0:01:05.21,0:01:10.28,DefaultTop,,0,0,0,,{\i1}SP110-Px was developed by the police department to perform special operations.{\i0}
 Dialogue: 0,0:01:10.95,0:01:14.25,DefaultTop,,0,0,0,,{\i1}Its name: Special Agent Hyakutoban!{\i0}
-Dialogue: 0,0:01:14.49,0:01:17.52,Lyrics,,0,0,0,,{\yshad3}I won't run away anymore! I'll never give up!
-Dialogue: 0,0:01:17.52,0:01:20.99,Lyrics,,0,0,0,,{\yshad3}We'll support each other again and again
-Dialogue: 0,0:01:20.99,0:01:24.70,Lyrics,,0,0,0,,{\yshad3}I'll protect this metropolis, for the future I want to believe in
-Dialogue: 0,0:01:24.70,0:01:30.84,Lyrics,,0,0,0,,{\yshad3}Swear to give me the praise I need to grow! Dogengers!
-Dialogue: 0,0:01:30.84,0:01:35.47,Lyrics,,0,0,0,,{\yshad3}The dream I saw that day will someday come true
-Dialogue: 0,0:01:35.47,0:01:41.81,Lyrics,,0,0,0,,{\yshad3}Yes, if I find the strength to surpass my days of being timid
-Dialogue: 0,0:01:41.81,0:01:46.19,Lyrics,,0,0,0,,{\yshad3}To shine brighter than the wimp I knew myself to be
-Dialogue: 0,0:01:46.19,0:01:52.86,Lyrics,,0,0,0,,{\yshad3}Like a beacon telling me not to forget my mission
-Dialogue: 0,0:01:52.86,0:01:58.10,Lyrics,,0,0,0,,{\yshad3}Anyone can pretend to be tough, like a stubborn machine
-Dialogue: 0,0:01:58.10,0:02:05.37,Lyrics,,0,0,0,,{\yshad3}And when we realize that, we can find friends!
-Dialogue: 0,0:02:05.37,0:02:08.84,Lyrics,,0,0,0,,{\yshad3}There's an APB on you: you are wanted!
-Dialogue: 0,0:02:08.84,0:02:11.84,Lyrics,,0,0,0,,{\yshad3}Because your dreams are not fictional
-Dialogue: 0,0:02:11.84,0:02:16.52,Lyrics,,0,0,0,,{\yshad3}I want to be a hero just like you
-Dialogue: 0,0:02:16.52,0:02:19.69,Lyrics,,0,0,0,,{\yshad3}I won't run away anymore! I'll never give up!
-Dialogue: 0,0:02:19.69,0:02:23.22,Lyrics,,0,0,0,,{\yshad3}We'll support each other again and again
-Dialogue: 0,0:02:23.22,0:02:27.03,Lyrics,,0,0,0,,{\fad(0,234)\yshad3}I'll protect this metropolis, for the future I want to believe in
-Dialogue: 0,0:02:27.03,0:02:32.60,Lyrics,,0,0,50,,{\yshad3}Swear to give me the praise I need to grow! Dogengers!
 Dialogue: 0,0:02:54.37,0:02:55.64,Default,,0,0,0,,Good morning!
 Dialogue: 0,0:02:55.64,0:02:57.04,Default,,0,0,0,,Shiraishi!
 Dialogue: 0,0:02:57.04,0:02:59.04,Default,,0,0,0,,Ooh, sorry. Sorry.
@@ -89,13 +72,17 @@ Dialogue: 0,0:03:30.88,0:03:33.84,Default,,0,0,0,,What do we do? \NNo weaknesses
 Dialogue: 0,0:03:33.84,0:03:35.15,Default,,0,0,0,,Not a single one.
 Dialogue: 0,0:03:38.62,0:03:40.66,Default,,0,0,0,,Oh. Good morning.
 Dialogue: 0,0:03:41.28,0:03:42.26,Default,,0,0,0,,Hatena!
-Dialogue: 0,0:03:42.26,0:03:46.17,Default,,0,0,0,,We deeply apologize for you having to \Nfight those unbelievably powerful heroes!
+Dialogue: 0,0:03:42.26,0:03:44.02,Default,,0,0,0,,We deeply apologize\Nfor you having to
+Dialogue: 0,0:03:44.04,0:03:46.17,Default,,0,0,0,,fight those unbelievably\Npowerful heroes!
 Dialogue: 0,0:03:46.17,0:03:48.55,Default,,0,0,0,,Please reconsider your decision to quit!
 Dialogue: 0,0:03:48.80,0:03:51.22,Default,,0,0,0,,But... I do not plan to quit?
 Dialogue: 0,0:03:51.22,0:03:53.51,Default,,0,0,0,,I have no such intent.
-Dialogue: 0,0:03:54.52,0:04:00.26,Default,,0,0,0,,As the new employee, it's only natural I should put myself in stressful situations in order to gain your trust.
-Dialogue: 0,0:04:00.57,0:04:03.40,Default,,0,0,0,,Since I have joined this organization, we have had new options at our disposal.
-Dialogue: 0,0:04:03.40,0:04:07.33,Default,,0,0,0,,I'd like to leverage these to achieve results.
+Dialogue: 0,0:03:54.52,0:03:57.38,Default,,0,0,0,,As the new employee, it's\Nonly natural I should put myself
+Dialogue: 0,0:03:57.40,0:04:00.26,Default,,0,0,0,,in stressful situations in\Norder to gain your trust.
+Dialogue: 0,0:04:00.57,0:04:01.97,Default,,0,0,0,,Since I have joined\Nthis organization,
+Dialogue: 0,0:04:02.00,0:04:03.40,Default,,0,0,0,,we have had new\Noptions at our disposal.
+Dialogue: 0,0:04:03.40,0:04:05.35,Default,,0,0,0,,I'd like to leverage
+Dialogue: 0,0:04:05.38,0:04:07.33,Default,,0,0,0,,these to achieve results.
 Dialogue: 0,0:04:09.62,0:04:12.20,Default,,0,0,0,,If any of them would seem useful...
 Dialogue: 0,0:04:13.77,0:04:16.08,Default,,0,0,0,,What's this supposed to be?
 Dialogue: 0,0:04:17.57,0:04:19.73,Default,,0,0,0,,The reason I joined the police,
@@ -118,7 +105,7 @@ Dialogue: 0,0:05:07.46,0:05:08.97,Default,,0,0,0,,Remove me from my post.
 Dialogue: 0,0:05:11.26,0:05:13.88,Default,,0,0,0,,I know I'm the only one who\Ncan become Hyakutouban...
 Dialogue: 0,0:05:15.15,0:05:17.91,Default,,0,0,0,,It's my fault I can't properly use its power!
 Dialogue: 0,0:05:17.91,0:05:18.57,Default,,0,0,0,,So...
-Dialogue: 0,0:05:19.85,0:05:22.14,Default,,0,0,0,,- Please dismiss me from my post.\N- Don't ever say that again!\N
+Dialogue: 0,0:05:19.85,0:05:22.14,Default,,0,0,0,,- Please dismiss me from my post.\N- Don't ever say that again!
 Dialogue: 0,0:05:26.28,0:05:27.80,Default,,0,0,0,,I won't allow it.
 Dialogue: 0,0:05:29.11,0:05:31.42,Default,,0,0,0,,-Akuta!\N-Shiraishi!
 Dialogue: 0,0:05:33.11,0:05:35.08,Default,,0,0,0,,Uh, have one of these.
@@ -126,11 +113,11 @@ Dialogue: 0,0:05:35.91,0:05:38.88,Default,,0,0,0,,-But...\N-Akuta has changed.
 Dialogue: 0,0:05:40.24,0:05:40.88,Default,,0,0,0,,Huh?
 Dialogue: 0,0:05:44.91,0:05:48.08,Default,,0,0,0,,Back then, he was way scarier.
 Dialogue: 0,0:05:50.00,0:05:53.13,Default,,0,0,0,,They called him "Akuta the Devil."
-Dialogue: 0,0:05:57.24,0:05:58.46,Default,,0,0,0,,Officer Akuta.
-Dialogue: 0,0:06:00.08,0:06:01.75,Default,,0,0,0,,I'd like to tell you something.
-Dialogue: 0,0:06:01.75,0:06:05.20,Default,,0,0,0,,Every one of Akuta's \Nsubordinates eventually quit.
-Dialogue: 0,0:06:05.20,0:06:07.88,Default,,0,0,0,,He was, perhaps, just far too strict.
-Dialogue: 0,0:06:08.73,0:06:11.20,Default,,0,0,0,,But why he was like that?
+Dialogue: 0,0:05:55.70,0:05:56.92,Default,,0,0,0,,Officer Akuta.
+Dialogue: 0,0:05:57.11,0:05:58.78,Default,,0,0,0,,I'd like to tell you something.
+Dialogue: 0,0:05:59.64,0:06:03.09,Default,,0,0,0,,Every one of Akuta's \Nsubordinates eventually quit.
+Dialogue: 0,0:06:03.11,0:06:05.78,Default,,0,0,0,,He was, perhaps, just far too strict.
+Dialogue: 0,0:06:05.90,0:06:10.80,Default,,0,0,0,,But why he was like that?
 Dialogue: 0,0:06:16.37,0:06:20.53,Default,,0,0,0,,It's his business, so I'm sure \Nhe's never told you, but...
 Dialogue: 0,0:06:21.47,0:06:22.48,Flashback,,0,0,0,,Natsuki...
 Dialogue: 0,0:06:23.37,0:06:25.11,Flashback,,0,0,0,,Natsuki!
@@ -228,8 +215,9 @@ Dialogue: 0,0:11:08.71,0:11:10.71,Default,,0,0,0,,That used to be the case.
 Dialogue: 0,0:11:15.77,0:11:17.26,Default,,0,0,0,,UWAAAAAH!
 Dialogue: 0,0:11:17.26,0:11:20.77,Default,,0,0,0,,Huh? H-how do you have that?
 Dialogue: 0,0:11:20.77,0:11:21.64,Default,,0,0,0,,Well...
-Dialogue: 0,0:11:22.11,0:11:28.68,Default,,0,0,0,,She's just so cool when she transforms that it just couldn't bear to be apart from her!
-Dialogue: 0,0:11:28.68,0:11:31.28,Default,,0,0,0,,-Hey, Ryoko!\N-She never changes.
+Dialogue: 0,0:11:22.11,0:11:25.02,Default,,0,0,0,,She's just so cool\Nwhen she transforms that
+Dialogue: 0,0:11:25.04,0:11:27.89,Default,,0,0,0,,it just couldn't bear\Nto be apart from her!
+Dialogue: 0,0:11:28.08,0:11:31.28,Default,,0,0,0,,-Hey, Ryoko!\N-She never changes.
 Dialogue: 0,0:11:31.28,0:11:31.88,Default,,0,0,0,,Good luck!
 Dialogue: 0,0:11:31.88,0:11:34.68,Default,,0,0,0,,We're going to be late for the next activity!
 Dialogue: 0,0:11:34.68,0:11:35.64,Default,,0,0,0,,That'd make me a little sad.
@@ -275,7 +263,7 @@ Dialogue: 0,0:15:03.31,0:15:04.57,Default,,0,0,0,,Together!
 Dialogue: 0,0:15:04.57,0:15:08.08,Default,,0,0,0,,I'm never forgivin' you, Mako!
 Dialogue: 0,0:15:09.93,0:15:11.57,Default,,0,0,0,,Don't worry!
 Dialogue: 0,0:15:14.24,0:15:17.73,Default,,0,0,0,,-Make the arrest...\N-YOU'RE UNDER ARRREEEEEEST!
-Dialogue: 0,0:15:17.73,0:15:21.55,Default,,0,0,0,,Over here! You can't catch me!\N
+Dialogue: 0,0:15:17.73,0:15:21.55,Default,,0,0,0,,Over here! You can't catch me!
 Dialogue: 0,0:15:21.55,0:15:26.33,Default,,0,0,0,,
 Dialogue: 0,0:15:32.62,0:15:34.22,Default,,0,0,0,,Ya arrested me yet?\NArrested me yet?
 Dialogue: 0,0:15:34.24,0:15:35.71,Default,,0,0,0,,Make some distance between you!
@@ -313,11 +301,12 @@ Dialogue: 0,0:17:59.73,0:18:00.91,Default,,0,0,0,,I just couldn't do it.
 Dialogue: 0,0:18:01.53,0:18:03.64,Default,,0,0,0,,I was so focused on making everyone do their jobs,
 Dialogue: 0,0:18:04.33,0:18:06.00,Default,,0,0,0,,That I couldn't tell them what I wanted to.
 Dialogue: 0,0:18:07.53,0:18:08.41,Default,,0,0,0,,But right now...
-Dialogue: 0,0:18:09.35,0:18:11.75,Default,,0,0,0,,It seems like you have a reason to talk,\Nso I'll let you talk.
+Dialogue: 0,0:18:09.35,0:18:10.58,Default,,0,0,0,,It seems like you\Nhave a reason to talk,
+Dialogue: 0,0:18:10.61,0:18:11.75,Default,,0,0,0,,so I'll let you talk.
 Dialogue: 0,0:18:15.33,0:18:19.11,Default,,0,0,0,,What do you think things are like right now? When people don't talk to each other?
 Dialogue: 0,0:18:19.75,0:18:21.97,Default,,0,0,0,,I don't understand the question.
 Dialogue: 0,0:18:22.42,0:18:24.48,Default,,0,0,0,,We've got no one to make us try talking.
-Dialogue: 0,0:18:26.11,0:18:27.73,Default,,0,0,0,,In the past...\N
+Dialogue: 0,0:18:26.11,0:18:27.73,Default,,0,0,0,,In the past...
 Dialogue: 0,0:18:27.73,0:18:29.73,Default,,0,0,0,,We used to try because of our bosses.
 Dialogue: 0,0:18:29.73,0:18:31.15,Default,,0,0,0,,I would do it too.
 Dialogue: 0,0:18:31.28,0:18:32.48,Default,,0,0,0,,But now?
@@ -346,21 +335,6 @@ Dialogue: 0,0:19:57.73,0:19:59.40,Default,,0,0,0,,Hey, I got a bad feeling abou-
 Dialogue: 0,0:20:04.28,0:20:05.53,Default,,0,0,0,,If it's come to this...
 Dialogue: 0,0:20:07.28,0:20:10.37,Default,,0,0,0,,Then, I have no choice but to get on board with what she wants us to do.
 Dialogue: 0,0:20:12.95,0:20:14.71,DefaultTop,,0,0,0,,Do you think you could give me one more chance?
-Dialogue: 0,0:20:38.88,0:20:42.32,Lyrics,,0,700,0,,{\yshad3}Thanks for your hard day's work
-Dialogue: 0,0:20:42.32,0:20:46.03,Lyrics,,0,700,0,,{\yshad3}You're an officer protecting the city
-Dialogue: 0,0:20:46.03,0:20:49.73,Lyrics,,0,700,0,,{\yshad3}Handsome guys love black vinegar
-Dialogue: 0,0:20:49.73,0:20:53.90,Lyrics,,0,700,0,,{\yshad3}Riding through nature on a trike
-Dialogue: 0,0:20:53.90,0:20:58.07,Lyrics,,0,700,0,,{\yshad3}I want a gas-fired pizza oven
-Dialogue: 0,0:20:58.07,0:21:01.51,Lyrics,,0,700,0,,{\fs50\yshad2\pos(640,936.6)}One more slice! So good! One more slice!
-Dialogue: 0,0:21:01.51,0:21:07.75,Lyrics,,0,700,0,,{\yshad3\fscx90\fscy90}And if you're too fashionable, try interior design!
-Dialogue: 0,0:21:07.75,0:21:11.42,Lyrics,,0,700,0,,{\yshad3}Thanks for all that you do! We're so grateful
-Dialogue: 0,0:21:11.42,0:21:15.49,Lyrics,,0,700,0,,{\yshad3}You've arrested all of our troubles
-Dialogue: 0,0:21:15.49,0:21:22.60,Lyrics,,0,700,0,,{\yshad3\fs52}You're an orthodox hero, with willpower like a steel beam!
-Dialogue: 0,0:21:22.60,0:21:25.83,Lyrics,,0,700,0,,{\yshad3}Your apartment's so popular online
-Dialogue: 0,0:21:25.83,0:21:29.94,Lyrics,,0,700,0,,{\yshad3}But if it goes too viral, we'll say "gomentaiko"!
-Dialogue: 0,0:21:29.94,0:21:36.91,Lyrics,,0,700,0,,{\yshad3\fs52}Let's take our medicine and sleep for a healthy tomorrow!
-Dialogue: 0,0:21:36.91,0:21:40.75,Lyrics,,0,700,0,,{\yshad3}And we'll meet again with a smile
-Dialogue: 0,0:21:41.01,0:21:46.75,Lyrics,,0,0,0,,{\yshad3\fad(233,0)}We'll protect you! - The Dogengers
 Dialogue: 0,0:21:53.12,0:21:55.54,Default,,0,0,0,,Being the boss has been tough lately, huh?
 Dialogue: 0,0:21:57.93,0:22:00.22,Default,,0,0,0,,Seems like you've been adjusting well though.
 Dialogue: 0,0:22:01.30,0:22:02.87,Default,,0,0,0,,Cut it out.

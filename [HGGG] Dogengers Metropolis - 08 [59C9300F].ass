@@ -34,6 +34,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:03:54.93,0:03:57.66,Default,,0,0,0,,Mmrrrngh...
 Comment: 0,0:06:14.26,0:06:16.11,Default,,0,0,0,,Ueaah!
 Dialogue: 0,0:02:54.82,0:03:05.23,DefaultTop,,0,0,0,,{\c&H353833&\3c&H19B9E1&\shad0}Sorry for starting off with a scene about something\N important you might not understand!
+Dialogue: 0,0:14:15.14,0:14:19.30,Default,,0,0,0,,"Oh, if I don't watch it all, I\Nwon't be able to keep up!"
 Dialogue: 0,0:22:49.72,0:22:59.86,DefaultTop,,0,0,0,,{\c&H353833&\3c&H19B9E1&\shad0\fs70}Idolls... Welcome back! (We're crying a lot)
 Dialogue: 0,0:03:08.07,0:03:13.47,Default,,0,0,0,,{\fad(750,750)\bord0\shad0\c&HFFFFFF&\1a&H28&\an6\pos(1825.2,354.8)}Episode 8: \NA Serious Guns And\NSwords Control Violation
 Dialogue: 0,0:21:00.64,0:21:04.18,DefaultTop,,0,0,0,,Chapter 7: If Your Subordinate Says "We\N Need To Talk", That's Bad News!
@@ -73,23 +74,6 @@ Dialogue: 0,0:01:19.20,0:01:20.37,Default,,0,0,0,,Sorry.
 Dialogue: 0,0:01:21.62,0:01:24.44,Default,,0,0,0,,- Then I have no choice.\N- None?
 Dialogue: 0,0:01:26.30,0:01:31.37,DefaultTop,,0,0,0,,{\i1}SP110-Px was developed by the police department to perform special operations.{\i0}
 Dialogue: 0,0:01:32.04,0:01:35.34,DefaultTop,,0,0,0,,{\i1}Its name: Special Agent Hyakutoban!{\i0}
-Dialogue: 0,0:01:35.57,0:01:38.61,Lyrics,,0,0,0,,{\yshad3}I won't run away anymore! I'll never give up!
-Dialogue: 0,0:01:38.61,0:01:42.08,Lyrics,,0,0,0,,{\yshad3}We'll support each other again and again
-Dialogue: 0,0:01:42.08,0:01:45.78,Lyrics,,0,0,0,,{\yshad3}I'll protect this metropolis, for the future I want to believe in
-Dialogue: 0,0:01:45.78,0:01:51.92,Lyrics,,0,0,0,,{\yshad3}Swear to give me the praise I need to grow! Dogengers!
-Dialogue: 0,0:01:51.92,0:01:56.56,Lyrics,,0,0,0,,{\yshad3}The dream I saw that day will someday come true
-Dialogue: 0,0:01:56.56,0:02:02.90,Lyrics,,0,0,0,,{\yshad3}Yes, if I find the strength to surpass my days of being timid
-Dialogue: 0,0:02:02.90,0:02:07.27,Lyrics,,0,0,0,,{\yshad3}To shine brighter than the wimp I knew myself to be
-Dialogue: 0,0:02:07.27,0:02:13.95,Lyrics,,0,0,0,,{\yshad3}Like a beacon telling me not to forget my mission
-Dialogue: 0,0:02:13.95,0:02:19.19,Lyrics,,0,0,0,,{\yshad3}Anyone can pretend to be tough, like a stubborn machine
-Dialogue: 0,0:02:19.19,0:02:26.46,Lyrics,,0,0,0,,{\yshad3}And when we realize that, we can find friends!
-Dialogue: 0,0:02:26.46,0:02:29.93,Lyrics,,0,0,0,,{\yshad3}There's an APB on you: you are wanted!
-Dialogue: 0,0:02:29.93,0:02:32.93,Lyrics,,0,0,0,,{\yshad3}Because your dreams are not fictional
-Dialogue: 0,0:02:32.93,0:02:37.60,Lyrics,,0,0,0,,{\yshad3}I want to be a hero just like you
-Dialogue: 0,0:02:37.60,0:02:40.77,Lyrics,,0,0,0,,{\yshad3}I won't run away anymore! I'll never give up!
-Dialogue: 0,0:02:40.77,0:02:44.31,Lyrics,,0,0,0,,{\yshad3}We'll support each other again and again
-Dialogue: 0,0:02:44.31,0:02:48.11,Lyrics,,0,0,0,,{\fad(0,234)\yshad3}I'll protect this metropolis, for the future I want to believe in
-Dialogue: 0,0:02:48.11,0:02:53.69,Lyrics,,0,0,50,,{\yshad3}Swear to give me the praise I need to grow! Dogengers!
 Dialogue: 0,0:03:14.42,0:03:15.28,Default,,0,0,0,,You okay?
 Dialogue: 0,0:03:15.28,0:03:17.33,Default,,0,0,0,,This almost never happens.\NGotta get this.
 Dialogue: 0,0:03:18.91,0:03:21.15,Default,,0,0,0,,Hey, cut it out!
@@ -247,9 +231,9 @@ Dialogue: 0,0:13:41.42,0:13:43.25,Default,,0,0,0,,It's determination, of course.
 Dialogue: 0,0:13:43.25,0:13:47.42,Default,,0,0,0,,However, there's one thing you all don't get.
 Dialogue: 0,0:13:47.42,0:13:55.37,Default,,0,0,0,,It's about Yuz-Yuz who has, up to this point, lived freely and done whatever she wanted to without being arrested.
 Dialogue: 0,0:13:55.37,0:14:00.57,Default,,0,0,0,,It's something we all relate to, and something the new guy, Hatena, tries to emulate.
-Dialogue: 0,0:14:01.62,0:14:06.04,Default,,0,0,0,,Furthermore, Dogengers has no numbering convention.
+Dialogue: 0,0:14:01.57,0:14:05.99,Default,,0,0,0,,Furthermore, Dogengers has no numbering convention.
 Dialogue: 0,0:14:06.22,0:14:11.84,Default,,0,0,0,,We don't number our additional seasons,\Nlike "Dogengers 2" or "Dogengers 3."
-Dialogue: 0,0:14:11.84,0:14:20.17,Default,,0,0,0,,And if this were "Dogengers 4," people may say,\N"Oh, if I don't watch it all, I won't be able to keep up!"
+Dialogue: 0,0:14:11.84,0:14:14.77,Default,,0,0,0,,And if this were "Dogengers\N4," people may say,
 Dialogue: 0,0:14:20.17,0:14:24.24,Default,,0,0,0,,We're trying to make our story more easily accessible.
 Dialogue: 0,0:14:24.62,0:14:32.35,Default,,0,0,0,,Eh, I'll just cut to the point. Even though this isn't a direct sequel, we're building up to something...
 Dialogue: 0,0:14:32.35,0:14:36.86,Default,,0,0,0,,In other words, those dolls...
@@ -301,8 +285,8 @@ Dialogue: 0,0:17:38.40,0:17:43.10,Default,,0,0,0,,The result appears that even Y
 Dialogue: 0,0:17:44.73,0:17:49.71,Default,,0,0,0,,And their next task is to find a new target. Namely, me.
 Dialogue: 0,0:17:51.39,0:17:53.63,Default,,0,0,0,,The choice I must make...
 Dialogue: 0,0:17:56.60,0:17:57.77,Default,,0,0,0,,Is to retreat.
-Dialogue: 0,0:17:57.77,0:18:01.08,Default,,0,0,0,,Well then, shall we continue \Nyour suffering later,
-Dialogue: 0,0:18:01.08,0:18:01.93,Default,,0,0,0,,You and I?
+Dialogue: 0,0:17:57.77,0:18:00.46,Default,,0,0,0,,Well then, shall we continue \Nyour suffering later,
+Dialogue: 0,0:18:00.53,0:18:02.84,Default,,0,0,0,,You and I?
 Dialogue: 0,0:18:04.97,0:18:05.88,Default,,0,0,0,,This is for you.
 Dialogue: 0,0:18:12.26,0:18:13.53,Default,,0,0,0,,Hyakutoban!
 Dialogue: 0,0:18:14.46,0:18:15.53,Default,,0,0,0,,Pleased to meet you!
@@ -353,24 +337,9 @@ Dialogue: 0,0:20:32.44,0:20:33.88,Default,,0,0,0,,...be a real hero.
 Dialogue: 0,0:20:39.04,0:20:40.24,Default,,0,0,0,,So, Akuta...
 Dialogue: 0,0:20:42.24,0:20:43.20,Default,,0,0,0,,About that...
 Dialogue: 0,0:20:44.97,0:20:46.91,Default,,0,0,0,,We need to talk.
-Dialogue: 0,0:21:26.83,0:21:30.27,Lyrics,,0,700,0,,{\yshad3}Thanks for your hard day's work
-Dialogue: 0,0:21:30.27,0:21:33.97,Lyrics,,0,700,0,,{\yshad3}You're an officer protecting the city
-Dialogue: 0,0:21:33.97,0:21:37.68,Lyrics,,0,700,0,,{\yshad3}Handsome guys love black vinegar
-Dialogue: 0,0:21:37.68,0:21:41.85,Lyrics,,0,700,0,,{\yshad3}Riding through nature on a trike
-Dialogue: 0,0:21:41.85,0:21:46.02,Lyrics,,0,700,0,,{\yshad3}I want a gas-fired pizza oven
-Dialogue: 0,0:21:46.02,0:21:49.46,Lyrics,,0,700,0,,{\fs50\yshad2\pos(640,936.6)}One more slice! So good! One more slice!
-Dialogue: 0,0:21:49.46,0:21:55.69,Lyrics,,0,700,0,,{\yshad3\fscx90\fscy90}And if you're too fashionable, try interior design!
-Dialogue: 0,0:21:55.69,0:21:59.37,Lyrics,,0,700,0,,{\yshad3}Thanks for all that you do! We're so grateful
-Dialogue: 0,0:21:59.37,0:22:03.44,Lyrics,,0,700,0,,{\yshad3}You've arrested all of our troubles
-Dialogue: 0,0:22:03.44,0:22:10.54,Lyrics,,0,700,0,,{\yshad3\fs52}You're an orthodox hero, with willpower like a steel beam!
-Dialogue: 0,0:22:10.54,0:22:13.78,Lyrics,,0,700,0,,{\yshad3}Your apartment's so popular online
-Dialogue: 0,0:22:13.78,0:22:17.88,Lyrics,,0,700,0,,{\yshad3}But if it goes too viral, we'll say "gomentaiko"!
-Dialogue: 0,0:22:17.88,0:22:24.86,Lyrics,,0,700,0,,{\yshad3\fs52}Let's take our medicine and sleep for a healthy tomorrow!
-Dialogue: 0,0:22:24.86,0:22:28.69,Lyrics,,0,700,0,,{\yshad3}And we'll meet again with a smile
-Dialogue: 0,0:22:28.96,0:22:34.70,Lyrics,,0,0,0,,{\yshad3\fad(233,0)}We'll protect you! - The Dogengers
 Dialogue: 0,0:22:35.60,0:22:37.18,Default,,0,0,0,,Hi, everyone~!
 Dialogue: 0,0:22:37.18,0:22:39.80,Default,,0,0,0,,I'm a manager too, so I understand.
 Dialogue: 0,0:22:40.26,0:22:44.77,Default,,0,0,0,,Subordinates saying "We need to talk..." is seriously wack!
 Dialogue: 0,0:22:44.77,0:22:47.42,Default,,0,0,0,,Next time: "The Crime Of Stealing Your Heart"
 Dialogue: 0,0:22:47.42,0:22:49.42,Default,,0,0,0,,Shiraishi—!!
-Dialogue: 0,0:13:56.28,0:13:59.28,DefaultTop,,0,0,0,,
+Dialogue: 0,0:13:56.28,0:13:59.18,DefaultTop,,0,0,0,,
