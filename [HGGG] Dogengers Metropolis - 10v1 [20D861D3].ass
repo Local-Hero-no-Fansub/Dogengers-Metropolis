@@ -44,7 +44,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.64,0:00:05.91,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:00:06.84,0:00:08.37,Default,,0,0,0,,Hey, I got a bad feeling abou-
 Dialogue: 0,0:00:12.13,0:00:13.88,Default,,0,0,0,,If it's come to this...
-Dialogue: 0,0:00:15.26,0:00:19.15,Default,,0,0,0,,Then, I have no choice but to get on board with what she wants us to do.
+Dialogue: 0,0:00:15.26,0:00:16.97,Default,,0,0,0,,Then, I have no\Nchoice but to get on
+Dialogue: 0,0:00:16.99,0:00:19.15,Default,,0,0,0,,board with what\Nshe wants us to do.
 Dialogue: 0,0:00:19.97,0:00:21.95,Default,,0,0,0,,Well, there's new regulations on being a hero.
 Dialogue: 0,0:00:22.93,0:00:24.73,Default,,0,0,0,,"We're the true heroes..."
 Dialogue: 0,0:00:25.75,0:00:26.73,Default,,0,0,0,,That's what it says.
@@ -54,7 +55,8 @@ Dialogue: 0,0:00:51.20,0:00:54.22,Default,,0,0,0,,...own mission!!
 Dialogue: 0,0:00:54.22,0:00:57.95,Default,,0,0,0,,This true hero is a big success!\NHis name is...
 Dialogue: 0,0:00:58.95,0:00:59.95,Default,,0,0,0,,Hyakutoban!
 Dialogue: 0,0:01:03.60,0:01:06.91,Default,,0,0,0,,His strength of heart has \N stunned even the Dogengers!
-Dialogue: 0,0:01:07.31,0:01:10.64,Default,,0,0,0,,- YOU'RE UNDER ARRESTTTTT!\N- Hey, wait a second! You didn't say we were going that fast!
+Dialogue: 0,0:01:07.31,0:01:08.19,Default,,0,0,0,,YOU'RE UNDER ARRESTTTTT!
+Dialogue: 0,0:01:08.21,0:01:10.64,Default,,0,0,0,,Hey, wait a second! You didn't\Nsay we were going that fast!
 Dialogue: 0,0:01:10.67,0:01:13.40,Default,,0,0,0,,He keeps apprehending more members\Nof the Secret Society of Darkness!
 Dialogue: 0,0:01:13.69,0:01:17.91,Default,,0,0,0,,Apologies for the trouble!
 Dialogue: 0,0:01:17.91,0:01:19.91,Default,,0,0,0,,It's all over...
@@ -84,23 +86,6 @@ Dialogue: 0,0:02:33.93,0:02:35.64,Default,,0,0,0,,Why don't you try calling it?
 Dialogue: 0,0:02:37.82,0:02:38.66,Default,,0,0,0,,Big bro?
 Dialogue: 0,0:02:41.27,0:02:46.35,DefaultTop,,0,0,0,,{\i1}SP110-Px was developed by the police department to perform special operations.{\i0}
 Dialogue: 0,0:02:47.01,0:02:50.32,DefaultTop,,0,0,0,,{\i1}Its name: Special Agent Hyakutoban!{\i0}
-Dialogue: 0,0:02:50.55,0:02:53.59,Lyrics,,0,0,0,,{\yshad3}I won't run away anymore! I'll never give up!
-Dialogue: 0,0:02:53.59,0:02:57.06,Lyrics,,0,0,0,,{\yshad3}We'll support each other again and again
-Dialogue: 0,0:02:57.06,0:03:00.76,Lyrics,,0,0,0,,{\yshad3}I'll protect this metropolis, for the future I want to believe in
-Dialogue: 0,0:03:00.76,0:03:06.90,Lyrics,,0,0,0,,{\yshad3}Swear to give me the praise I need to grow! Dogengers!
-Dialogue: 0,0:03:06.90,0:03:11.54,Lyrics,,0,0,0,,{\yshad3}The dream I saw that day will someday come true
-Dialogue: 0,0:03:11.54,0:03:17.88,Lyrics,,0,0,0,,{\yshad3}Yes, if I find the strength to surpass my days of being timid
-Dialogue: 0,0:03:17.88,0:03:22.25,Lyrics,,0,0,0,,{\yshad3}To shine brighter than the wimp I knew myself to be
-Dialogue: 0,0:03:22.25,0:03:28.92,Lyrics,,0,0,0,,{\yshad3}Like a beacon telling me not to forget my mission
-Dialogue: 0,0:03:28.92,0:03:34.16,Lyrics,,0,0,0,,{\yshad3}Anyone can pretend to be tough, like a stubborn machine
-Dialogue: 0,0:03:34.16,0:03:41.43,Lyrics,,0,0,0,,{\yshad3}And when we realize that, we can find friends!
-Dialogue: 0,0:03:41.43,0:03:44.90,Lyrics,,0,0,0,,{\yshad3}There's an APB on you: you are wanted!
-Dialogue: 0,0:03:44.90,0:03:47.91,Lyrics,,0,0,0,,{\yshad3}Because your dreams are not fictional
-Dialogue: 0,0:03:47.91,0:03:52.58,Lyrics,,0,0,0,,{\yshad3}I want to be a hero just like you
-Dialogue: 0,0:03:52.58,0:03:55.75,Lyrics,,0,0,0,,{\yshad3}I won't run away anymore! I'll never give up!
-Dialogue: 0,0:03:55.75,0:03:59.29,Lyrics,,0,0,0,,{\yshad3}We'll support each other again and again
-Dialogue: 0,0:03:59.29,0:04:03.09,Lyrics,,0,0,0,,{\fad(0,234)\yshad3}I'll protect this metropolis, for the future I want to believe in
-Dialogue: 0,0:04:03.09,0:04:08.66,Lyrics,,0,0,50,,{\yshad3}Swear to give me the praise I need to grow! Dogengers!
 Dialogue: 0,0:04:39.00,0:04:41.13,Default,,0,0,0,,I feel lonely...
 Dialogue: 0,0:04:46.13,0:04:47.60,Default,,0,0,0,,These will do!
 Dialogue: 0,0:04:53.16,0:04:54.38,Default,,0,0,0,,Huh?
@@ -118,17 +103,15 @@ Dialogue: 0,0:05:36.28,0:05:37.55,Default,,0,0,0,,Maid Goooat!
 Dialogue: 0,0:05:38.55,0:05:42.08,Default,,0,0,0,,If you've got a problem with that, why don't you come over and fight us?
 Dialogue: 0,0:05:42.08,0:05:44.08,Default,,0,0,0,,And why don't you bring your new car over here?
 Dialogue: 0,0:05:44.08,0:05:45.55,Default,,0,0,0,,I'll destroy it with my bare hands!
-Dialogue: 0,0:05:45.55,0:05:48.37,Default,,0,0,0,,I'll bring some paper scraps for \Nyou to chew on, Maid Goat.
+Dialogue: 0,0:05:45.55,0:05:48.37,Default,,0,0,0,,I'll bring some paper scraps for \Nyou to chew on, Gran Maid.
 Dialogue: 0,0:05:48.37,0:05:50.97,Default,,0,0,0,,OH, THAT'S IT!!!
 Dialogue: 0,0:05:50.97,0:05:53.73,Default,,0,0,0,,This is our course of action?
 Dialogue: 0,0:05:54.77,0:05:58.42,Default,,0,0,0,,Oh, Maid Butler gets really upset \Nwhen someone compares them to a goat.
 Dialogue: 0,0:05:58.88,0:06:00.17,Default,,0,0,0,,This, for your fever.
-Dialogue: 0,0:06:01.04,0:06:02.17,Default,,0,0,0,,I leave the rest...
-Dialogue: 0,0:06:02.71,0:06:03.55,Default,,0,0,0,,to you.
-Dialogue: 0,0:06:04.88,0:06:06.11,Default,,0,0,0,,
-Dialogue: 0,0:06:06.11,0:06:07.71,Default,,0,0,0,,-Is he okay?\N-He doesn't look dead.
-Dialogue: 0,0:06:07.71,0:06:10.22,Default,,0,0,0,,Alright! It's been awhile...
-Dialogue: 0,0:06:10.22,0:06:12.35,Default,,0,0,0,,Let's all get along,
+Dialogue: 0,0:06:01.03,0:06:03.66,Default,,0,0,0,,I leave the rest...
+Dialogue: 0,0:06:05.92,0:06:07.75,Default,,0,0,0,,Alright! It's been awhile...
+Dialogue: 0,0:06:07.78,0:06:10.04,Default,,0,0,0,,
+Dialogue: 0,0:06:10.20,0:06:12.33,Default,,0,0,0,,Let's all get along,
 Dialogue: 0,0:06:12.35,0:06:14.13,Default,,0,0,0,,and go arrest someone!
 Dialogue: 0,0:06:14.13,0:06:16.13,Default,,0,0,0,,ALRIGHT!
 Dialogue: 0,0:06:17.80,0:06:18.48,Default,,0,0,0,,We're off.
@@ -361,21 +344,6 @@ Dialogue: 0,0:20:25.24,0:20:27.95,Default,,0,0,0,,- "New regulations"?!\N- Whaaa
 Dialogue: 0,0:20:30.88,0:20:32.66,Default,,0,0,0,,From here forwards...
 Dialogue: 0,0:20:33.35,0:20:35.00,Default,,0,0,0,,He'll do us the favor...
 Dialogue: 0,0:20:35.00,0:20:37.00,Default,,0,0,0,,...of working on his own.
-Dialogue: 0,0:21:11.42,0:21:14.85,Lyrics,,0,700,0,,{\yshad3}Thanks for your hard day's work
-Dialogue: 0,0:21:14.85,0:21:18.56,Lyrics,,0,700,0,,{\yshad3}You're an officer protecting the city
-Dialogue: 0,0:21:18.56,0:21:22.26,Lyrics,,0,700,0,,{\yshad3}Handsome guys love black vinegar
-Dialogue: 0,0:21:22.26,0:21:26.43,Lyrics,,0,700,0,,{\yshad3}Riding through nature on a trike
-Dialogue: 0,0:21:26.43,0:21:30.60,Lyrics,,0,700,0,,{\yshad3}I want a gas-fired pizza oven
-Dialogue: 0,0:21:30.60,0:21:34.04,Lyrics,,0,700,0,,{\fs50\yshad2\pos(640,936.6)}One more slice! So good! One more slice!
-Dialogue: 0,0:21:34.04,0:21:40.28,Lyrics,,0,700,0,,{\yshad3\fscx90\fscy90}And if you're too fashionable, try interior design!
-Dialogue: 0,0:21:40.28,0:21:43.95,Lyrics,,0,700,0,,{\yshad3}Thanks for all that you do! We're so grateful
-Dialogue: 0,0:21:43.95,0:21:48.02,Lyrics,,0,700,0,,{\yshad3}You've arrested all of our troubles
-Dialogue: 0,0:21:48.02,0:21:55.13,Lyrics,,0,700,0,,{\yshad3\fs52}You're an orthodox hero, with willpower like a steel beam!
-Dialogue: 0,0:21:55.13,0:21:58.36,Lyrics,,0,700,0,,{\yshad3}Your apartment's so popular online
-Dialogue: 0,0:21:58.36,0:22:02.47,Lyrics,,0,700,0,,{\yshad3}But if it goes too viral, we'll say "gomentaiko"!
-Dialogue: 0,0:22:02.47,0:22:09.44,Lyrics,,0,700,0,,{\yshad3\fs52}Let's take our medicine and sleep for a healthy tomorrow!
-Dialogue: 0,0:22:09.44,0:22:13.28,Lyrics,,0,700,0,,{\yshad3}And we'll meet again with a smile
-Dialogue: 0,0:22:13.55,0:22:19.29,Lyrics,,0,0,0,,{\yshad3\fad(233,0)}We'll protect you! - The Dogengers
 Dialogue: 0,0:22:20.06,0:22:24.24,Default,,0,0,0,,Um so, get this! \NI had a talked with Shiraishi!
 Dialogue: 0,0:22:24.24,0:22:26.84,Default,,0,0,0,,I think they've lost the ability to distinguish good and evil, but...!!
 Dialogue: 0,0:22:26.87,0:22:28.73,Default,,0,0,0,,You really think the police \Nwill let 'em off the hook?
